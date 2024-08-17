@@ -1,6 +1,6 @@
 {
-  "domain": "ban_allowlist",
-  "name": "IP Ban Allowlist",
+  "domain": "custom_ip_ban",
+  "name": "Custom IP Ban",
   "codeowners": [
     "@palfrey"
   ],
