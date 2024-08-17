@@ -1,3 +1,3 @@
 """Constants for the Ban Allowlist integration."""
 
-DOMAIN = "ban_allowlist"
+DOMAIN = "custom_ip_ban"
